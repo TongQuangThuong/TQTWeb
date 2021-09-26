@@ -1,0 +1,38 @@
+.p-wow img {
+    padding-left: 50px;
+    margin-top: 10px;
+}
+
+.p-menu {
+    padding-left: 10.5rem;
+}
+
+.nav-link {
+    color: #ff6b81;
+}
+
+
+/* .p-tab1 {
+    background-color: #47b4d1;
+    background-image: url(IMG/pito1.png);
+    background-repeat: no-repeat;
+    position: relative;
+} */
+
+.p-imgleft {
+    padding: 0px;
+}
+
+.p-imgtit img {
+    border-radius: 50px !important;
+}
+
+.p-menu2 {
+    margin-top: 2.6rem;
+}
+
+.p-img img {
+    width: 43px;
+    height: 43px;
+    margin-left: 1rem;
+}

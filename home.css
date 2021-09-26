@@ -1,0 +1,111 @@
+.p-wow img {
+    padding-left: 50px;
+    margin-top: 10px;
+}
+
+.p-menu {
+    padding-left: 10.5rem;
+}
+
+.nav-link {
+    color: #ff6b81;
+}
+
+.p-search {
+    height: 17rem;
+    background-image: url(IMG/confix2.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.p-search input {
+    margin-left: 30%;
+    margin-top: 10%;
+}
+
+.p-search button {
+    margin-top: 10%;
+}
+
+.p-explore {
+    height: 7rem;
+}
+
+.p-explore p {
+    font-size: 30px;
+    margin-top: 4.4rem;
+    text-align: center;
+}
+
+.p-extop {
+    height: 34.2rem;
+}
+
+.imgx {
+    width: 20.3rem;
+    height: 24.3rem;
+    float: left;
+    padding: 2.86rem;
+    border-radius: 5%;
+}
+
+#pad {
+    margin-left: 10.3rem;
+    margin-top: 9px;
+}
+
+.imgx {
+    margin-left: 10px;
+    padding-left: 20px;
+    position: relative;
+}
+
+.imgx p {
+    text-align: center;
+    color: #fff;
+    position: absolute;
+    margin-top: -50px;
+    margin-left: 7.5rem;
+}
+
+.imgx img {
+    width: 100%;
+    border-radius: 5%;
+}
+
+.p-food {
+    height: 6.3rem;
+}
+
+.p-food p {
+    font-size: 30px;
+    padding-top: 4rem;
+}
+
+.p-menutop {
+    height: 14.3rem;
+    float: left;
+}
+
+.p-menutop img {
+    border-radius: 5%;
+}
+
+#x1 {
+    float: left;
+}
+
+.p-menu1 {
+    margin-left: 9.6rem;
+    margin-top: 2.6rem;
+}
+
+.p-menu2 {
+    margin-top: 2.6rem;
+}
+
+.p-img img {
+    width: 43px;
+    height: 43px;
+    margin-left: 1rem;
+}
